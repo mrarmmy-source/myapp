@@ -17,7 +17,7 @@ class RecipeApp extends StatelessWidget {
         appBarTheme: const AppBarTheme(centerTitle: true),
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Uniqlo Shop'),
     );
   }
 }
